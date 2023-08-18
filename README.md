@@ -7,8 +7,7 @@ Introduction and Research Objectives
 A digital currency known as cryptocurrency is established on cryptographic evidence that is essential to confirm each transaction. Cryptocurrencies are distinguished by several features, including their lack of dependence on central authorities such as central banks, their provision of a degree of pseudo-anonymity, and their ability to protect against double spending attacks.[1] in this project applies financial Python programming and unsupervised learning algorithms to categorize cryptocurrencies according to their performance during different timeframes, using K-Means and Principal Component Analysis (PCA). The dataset used in this analysis comprises a CSV file that includes returns (price fluctuations) data of cryptocurrencies across diverse time periods.
 
 
-Research Report
-Access the research report through this link: Research Report(https://github.com/TARUNABANSALA/CryptoClustering/blob/main/Crypto_Clustering.ipynb)
+Access the research report through this link:(https://github.com/TARUNABANSALA/CryptoClustering/blob/main/Crypto_Clustering.ipynb)
 
 
 References
